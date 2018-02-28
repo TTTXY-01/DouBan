@@ -1,9 +1,12 @@
 # Mac
 .DS_Store
-
 # VSCode
-.vscode/
 
+.vscode/
+#Mac
+.DS_Store
+#VSCode
+.vscode/
 #Webstorm
 .idea/
 
